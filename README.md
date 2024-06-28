@@ -1,3 +1,4 @@
+![pixlr-image-generator-adc25d77-baef-4650-8c04-ace44134b54e](https://github.com/GameOfTrump/solmemecoin/assets/174032054/dcb005d5-976f-4a8d-9188-7e46102f0edc)
 ---
 cover: .gitbook/assets/pixlr-image-generator-adc25d77-baef-4650-8c04-ace44134b54e.png
 coverY: 0
