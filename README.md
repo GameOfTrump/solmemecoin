@@ -1,22 +1,4 @@
 ![pixlr-image-generator-adc25d77-baef-4650-8c04-ace44134b54e](https://github.com/GameOfTrump/solmemecoin/assets/174032054/dcb005d5-976f-4a8d-9188-7e46102f0edc)
----
-cover: .gitbook/assets/pixlr-image-generator-adc25d77-baef-4650-8c04-ace44134b54e.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
 
 # ✍️ ALL HAIL THE KING!
 
@@ -30,4 +12,3 @@ With Game Of Trump, we rise against the old order, championing a cause to make c
 
 Together, we shall conquer the digital battlegrounds and emerge victorious, as our destiny unfolds in triumph!
 
-{% embed url="https://youtu.be/ZGmkuDZCuXM" %}
