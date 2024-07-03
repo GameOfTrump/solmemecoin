@@ -4,9 +4,15 @@
 
 * [✍️ ALL HAIL THE KING!](README.md)
 
-## Tokenomics
+## Tokenomics & Technicals Details
 
-* [💰 $GOT](tokenomics/usdgot.md)
+* [💰 $GOT](tokenomics-and-technicals-details/usdgot.md)
+
+***
+
+* [FEATURES & UTILITIES](features-and-utilities/README.md)
+  * [Roadmap](features-and-utilities/roadmap.md)
+  * [Page 1](features-and-utilities/page-1.md)
 
 ## Fairlaunch
 
@@ -19,6 +25,6 @@
 
 * [🤝 Our Partners](partners/our-partners.md)
 
-## Links
+## Social Media & Community
 
-* [🔗 Links](links/links.md)
+* [🔗 Links](social-media-and-community/links.md)
