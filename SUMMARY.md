@@ -18,8 +18,6 @@
 
 * [🛫 Pinksale](fairlaunch/pinksale.md)
 * [ℹ️ Presale Information](fairlaunch/presale-information.md)
-* [🔒 Lock Records](fairlaunch/lock-records.md)
-* [🔓 Lock Information](fairlaunch/lock-information.md)
 
 ## Partners
 
