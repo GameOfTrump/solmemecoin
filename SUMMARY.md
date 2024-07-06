@@ -12,7 +12,6 @@
 
 * [FEATURES & UTILITIES](features-and-utilities/README.md)
   * [Roadmap](features-and-utilities/roadmap.md)
-  * [Page 1](features-and-utilities/page-1.md)
 
 ## Fairlaunch
 
