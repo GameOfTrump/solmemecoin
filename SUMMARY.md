@@ -8,6 +8,10 @@
 
 * [💰 $GOT](tokenomics-and-technicals-details/usdgot.md)
 
+## Feature & Utilities
+
+* [💰 Roadmap](feature-and-utilities/usdgot.md)
+
 ## Fairlaunch
 
 * [🛫 Pinksale](fairlaunch/pinksale.md)
