@@ -13,6 +13,7 @@ description: >-
 * **Buy/Sell Tax**: 0%
 * **Authority**: Revoked
 * **No Team Allocation**
+* **LP Burned**
 
 ### Distribution
 
