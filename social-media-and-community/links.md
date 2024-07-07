@@ -8,10 +8,7 @@ description: >-
 
 
 
-* https://t.me/+glkWslLtJQxjMjdk[^1]
+* [Telegram](https://t.me/+glkWslLtJQxjMjdk)
 * [X](https://x.com/GameOfTrump0407)
 * [Website](https://www.gameoftrump.live)
 
-
-
-[^1]: 
