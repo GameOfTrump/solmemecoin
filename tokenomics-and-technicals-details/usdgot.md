@@ -17,6 +17,6 @@ description: >-
 ### Distribution
 
 * **50%**: Pre-sale
-* **25%**: Marketing/CEX
+* **25%**: Marketing/CEX/Airdrop
 * **25%**: Liquidity Pool
 * **Unsold tokens**: Burn
